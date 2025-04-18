@@ -86,7 +86,3 @@ If you're interested in learning more about AES encryption, check out these reso
 ## Contributing
 
 Feel free to submit issues or pull requests if you find bugs or have suggestions for improvements.
-
-## License
-
-MIT License - feel free to use and modify as needed.
